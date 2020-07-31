@@ -1,5 +1,5 @@
 # Tribute
-![](free.jpg)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
