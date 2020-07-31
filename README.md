@@ -24,7 +24,7 @@ p {
 }
 
 #image {
-    padding: 100px 100px 5px 150px;
+    padding: 100px 50px 5px 150px;
 }
 
 h2 {
@@ -93,7 +93,7 @@ li {
     </p>
     <p id="pm">
         "Borlaug's life and achievement are testimony to the far-reaching contribution that one man's towering intellect, persistence and scientific vision can make to human peace and progress."
-    </br>
+    
         <div id="name">-- Indian Prime Minister Manmohan Singh</div>
     </p>
     <p id="tribute-link">
